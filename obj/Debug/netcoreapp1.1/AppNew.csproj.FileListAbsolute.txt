@@ -1,0 +1,8 @@
+/home/martin/AppNew/bin/Debug/netcoreapp1.1/AppNew.deps.json
+/home/martin/AppNew/bin/Debug/netcoreapp1.1/AppNew.runtimeconfig.json
+/home/martin/AppNew/bin/Debug/netcoreapp1.1/AppNew.runtimeconfig.dev.json
+/home/martin/AppNew/bin/Debug/netcoreapp1.1/AppNew.dll
+/home/martin/AppNew/bin/Debug/netcoreapp1.1/AppNew.pdb
+/home/martin/AppNew/obj/Debug/netcoreapp1.1/AppNew.AssemblyInfo.cs
+/home/martin/AppNew/obj/Debug/netcoreapp1.1/AppNew.dll
+/home/martin/AppNew/obj/Debug/netcoreapp1.1/AppNew.pdb
