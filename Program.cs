@@ -18,7 +18,7 @@ namespace AppNew
                 .UseStartup<Startup>()
                 .Build();
 
-            host.Run();
+            host.Run(); //Probando cambios
         }
     }
 }
